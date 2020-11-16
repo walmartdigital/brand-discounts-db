@@ -19,7 +19,7 @@ for AFILE in ${FILES[@]}
 do
     echo -e "[$(date)] Processing \t$AFILE"
     COLLECTION=`echo $AFILE | sed -n 's/.*\-\(.*\).json/\1/p'`
-    mongoimport --host ${HOST} --username brandDiscountsUser --password brandDiscountsPassword --authenticationDatabase admin --db promotions --collection ${COLLECTION} --mode upsert --file ${AFILE}
+    mongoimport --host ${HOST} --username brandDiscountsUser --password brandDiscountsPassword --authenticationDatabase admin --db desafio_walmart --collection ${COLLECTION} --mode upsert --file ${AFILE}
     echo -e "[$(date)] Done \t\t$AFILE"
 done
 
