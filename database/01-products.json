@@ -278,3 +278,88 @@
   "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
   "price": 40000
 }
+{
+  "id": 850,
+  "brand": "Marca Acme",
+  "description": "Libélula livea 20W",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 15000
+}
+{
+  "id": 888,
+  "brand": "Marca Acme",
+  "description": "Cable de teléfono inteligente 100 metros",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 10000
+}
+{
+  "id": 39,
+  "brand": "Marca Acme",
+  "description": "Plan directv 50 mb",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 5000
+}
+{
+  "id": 40,
+  "brand": "Marca Acme",
+  "description": "Muñeca lipo 3000",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 18000
+}
+{
+  "id": 150,
+  "brand": "Marca Acme",
+  "description": "luces crypto 80W",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 9000
+}
+{
+  "id": 500,
+  "brand": "Marca Acme",
+  "description": "luces crypto 120W",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 29990
+}
+{
+  "id": 600,
+  "brand": "Marca Acme",
+  "description": "Earpods cimul",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 129990
+}
+{
+  "id": 41,
+  "brand": "Ferrati",
+  "description": "Automóvil eléctrico para niños 8 años",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 389990
+}
+{
+  "id": 42,
+  "brand": "Televi",
+  "description": "Televisión 75 pulgadas 8k libre región, Timeplex",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 1200000
+}
+{
+  "id": 43,
+  "brand": "Televi",
+  "description": "Televisión 60 pulgadas 4k libre región, Maracaná",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 500000
+}
+{
+  "id": 44,
+  "brand": "Televi",
+  "description": "Televisión 80 pulgadas QLED libre región, Maracaná",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 389990
+}
+{
+  "id": 45,
+  "brand": "Televi",
+  "description": "Televisión 80 QLED, Rio",
+  "image": "www.lider.cl/catalogo/images/catalogo_no_photo.jpg",
+  "price": 2500000
+}
+
